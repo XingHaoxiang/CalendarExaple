@@ -1,10 +1,3 @@
-
-**关注我**
-
-githup:[https://github.com/codbking](https://github.com/codbking)
-
-csdn: [http://my.csdn.net/codbking](http://my.csdn.net/codbking)
-
 ****
 # CalendarExaple
 
@@ -114,10 +107,6 @@ csdn: [http://my.csdn.net/codbking](http://my.csdn.net/codbking)
             }
         });
 ```
-
-### 联系我
-
-**email:codbking@gmail.com**
 
 
 
